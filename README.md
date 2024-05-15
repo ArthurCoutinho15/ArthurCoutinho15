@@ -85,7 +85,7 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true"/></a>Python</code>
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/1_dQvABiWzbE28OTPYjzElKw.png?raw=true"/></a></code>
 &nbsp;
@@ -130,6 +130,8 @@
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.snowflake.com/pt_br/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/Snowflake-Emblem.png?raw=True"/></a></code>
+&nbsp;
+<code><a href="https://www.snowflake.com/pt_br/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/New_Power_BI_Logo.svg.png?raw=True"/></a></code>
 &nbsp;
 </div>
 
