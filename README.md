@@ -58,8 +58,8 @@
 <p> 
 - :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> no curso de Sistemas de Informação <br></br>
 - :mortar_board: &nbsp; Na <a href="https://whoid.com" target="_blank">who.</a>, fui <code>aprendiz</code> no setor de  aplicações e monitoramento. <br /><br />
-- :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
-- :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
+- :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">Unimed Federação Minas</a>, atuei como <code>Estagiário de Business Intelligence</code> <br /><br />
+- :briefcase: &nbsp; No <a href="https://www.betrybe.com/" target="_blank">Banco Mercantil</a> atuo como <code>Estagiário em Análise de Dados/code> <br><br />
 - :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
 - :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
