@@ -60,7 +60,7 @@
 - :mortar_board: &nbsp;Na <a href="https://whoid.com" target="_blank">who.</a>, fui <code>aprendiz</code> no setor de  aplicações e monitoramento. <br></br>
 - :necktie: &nbsp;Na <a href="https://in8.com.br/" target="_blank">Unimed Federação Minas</a>, atuei como <code>Estagiário de Business Intelligence</code>. <br></br>
 - :briefcase: &nbsp;No <a href="https://www.betrybe.com/" target="_blank">Banco Mercantil</a>, atuo como <code>Estagiário em Análise de Dados</code>. <br></br>
-- :soccer: &nbsp; Sou corintiano, torço para o <a href="https://www.corinthians.com.br" target="_blank">timão</a>. :&#x1F6A2;:<br />
+- :soccer: &nbsp; Sou corintiano, torço para o <a href="https://www.corinthians.com.br" target="_blank">timão</a>. 🦅<br />
 - :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
