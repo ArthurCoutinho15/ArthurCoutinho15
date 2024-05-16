@@ -58,8 +58,8 @@
 <p> 
 - :man_teacher: &nbsp;Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> no curso de Sistemas de Informação <br></br>
 - :mortar_board: &nbsp;Na <a href="https://whoid.com" target="_blank">who.</a>, fui <code>aprendiz</code> no setor de  aplicações e monitoramento. <br></br>
-- :necktie: &nbsp;Na <a href="https://in8.com.br/" target="_blank">Unimed Federação Minas</a>,fui <code>Estagiário de Business Intelligence</code>.<br></br>
-- :briefcase: &nbsp;No <a href="https://www.betrybe.com/" target="_blank">Banco Mercantil</a>, atuo como <code>Estagiário em Análise de Dados</code>. <br></br>
+- :necktie: &nbsp;Na <a href="https://www.unimed.coop.br/site/web/minasgerais" target="_blank">Unimed Federação Minas</a>,fui <code>Estagiário de Business Intelligence</code>.<br></br>
+- :briefcase: &nbsp;No <a href="https://bancomercantil.com.br/Paginas/Home.aspx" target="_blank">Banco Mercantil</a>, atuo como <code>Estagiário em Análise de Dados</code>. <br></br>
 - :soccer: &nbsp; Sou corintiano, torço para o <a href="https://www.corinthians.com.br" target="_blank">timão</a>. 🦅<br />
 - :basketball: &nbsp; Meus hobbies são <a href="https://www.ubisoft.com/pt-br/game/rainbow-six/siege" target="_blank">Rainbow Six Siege</a>, <a href="https://www.ubisoft.com/pt-br/game/rainbow-six/siege" target="_blank">Valorant</a> e Academia</a>,<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
