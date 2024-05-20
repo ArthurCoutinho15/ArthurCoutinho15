@@ -77,7 +77,7 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 
-<code><a href="https://www.python.org/" target="_blank">Python<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true"/></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/1_dQvABiWzbE28OTPYjzElKw.png?raw=true"/></a></code>
 &nbsp;
