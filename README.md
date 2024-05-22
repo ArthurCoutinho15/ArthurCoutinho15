@@ -42,7 +42,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Coutinho</code>, tenho 20 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>Estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Possuo interesse pelas áreas de Dados e Desenvolvimento.<br />
+<i><b>Olá</b> :wave:, sou o <code>Arthur Coutinho</code>, tenho 20 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>Estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Possuo interesse pelas áreas de Dados e Desenvolvimento.<br />
 </div>
 
 -----
