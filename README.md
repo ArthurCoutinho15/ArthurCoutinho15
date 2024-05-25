@@ -25,7 +25,7 @@
 </td>
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>-->>
+</td>-->
 </td>
 </td>
 </td>
