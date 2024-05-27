@@ -125,6 +125,8 @@
 &nbsp;
 <code><a href="https://www.snowflake.com/pt_br/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/New_Power_BI_Logo.svg.png?raw=True"/></a></code>
 &nbsp;
+<code><a href="https://www.getdbt.com" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/dbt-logo-500AB0BAA7-seeklogo.com.png?raw=True"/></a></code>
+&nbsp;
 </div>
 
 -----
