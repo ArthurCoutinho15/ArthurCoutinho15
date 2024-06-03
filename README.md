@@ -2,7 +2,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/wmf4pf98d4l61.png"/>
+<img align="center" alt="Header" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/wmf4pf98d4l61.png"/>
 </div>
 
 -----
