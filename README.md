@@ -112,7 +112,7 @@
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.snowflake.com/pt_br/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/Snowflake-Emblem.png?raw=True"/></a></code>
+<code><a href="https://www.snowflake.com/pt_br/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/SNOW-35164165.png?raw=True"/></a></code>
 &nbsp;
 <code><a href="https://www.snowflake.com/pt_br/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/New_Power_BI_Logo.svg.png?raw=True"/></a></code>
 &nbsp;
@@ -165,12 +165,12 @@
 ---
 
 ```text
-                                               ░█████╗░░█████╗░██╗░░░██╗████████╗██╗███╗░░██╗██╗░░██╗░█████╗░
-                                               ██╔══██╗██╔══██╗██║░░░██║╚══██╔══╝██║████╗░██║██║░░██║██╔══██╗
-                                               ██║░░╚═╝██║░░██║██║░░░██║░░░██║░░░██║██╔██╗██║███████║██║░░██║
-                                               ██║░░██╗██║░░██║██║░░░██║░░░██║░░░██║██║╚████║██╔══██║██║░░██║
-                                               ╚█████╔╝╚█████╔╝╚██████╔╝░░░██║░░░██║██║░╚███║██║░░██║╚█████╔╝
-                                               ░╚════╝░░╚════╝░░╚═════╝░░░░╚═╝░░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░╚════╝░
+                             ░█████╗░░█████╗░██╗░░░██╗████████╗██╗███╗░░██╗██╗░░██╗░█████╗░
+                             ██╔══██╗██╔══██╗██║░░░██║╚══██╔══╝██║████╗░██║██║░░██║██╔══██╗
+                             ██║░░╚═╝██║░░██║██║░░░██║░░░██║░░░██║██╔██╗██║███████║██║░░██║
+                             ██║░░██╗██║░░██║██║░░░██║░░░██║░░░██║██║╚████║██╔══██║██║░░██║
+                             ╚█████╔╝╚█████╔╝╚██████╔╝░░░██║░░░██║██║░╚███║██║░░██║╚█████╔╝
+                             ░╚════╝░░╚════╝░░╚═════╝░░░░╚═╝░░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░╚════╝░
                                                                                         
 ```                                        
 
