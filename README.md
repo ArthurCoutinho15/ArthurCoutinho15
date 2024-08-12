@@ -51,7 +51,7 @@
 <div align="justify">
 <p> 
 - :man_teacher: &nbsp;Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> no curso de Sistemas de Informação <br></br>
-- :mortar_board: &nbsp;Na <a href="https://whoid.com" target="_blank">who.</a>, fui <code>aprendiz</code> no setor de  aplicações e monitoramento. <br></br>
+- ><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/who_logo.jpg?raw=true"/> &nbsp;Na <a href="https://whoid.com" target="_blank">who.</a>, fui <code>aprendiz</code> no setor de  aplicações e monitoramento. <br></br>
 - :necktie: &nbsp;Na <a href="https://www.unimed.coop.br/site/web/minasgerais" target="_blank">Unimed Federação Minas</a>,fui <code>Estagiário de Business Intelligence</code>.<br></br>
 - :briefcase: &nbsp;No <a href="https://bancomercantil.com.br/Paginas/Home.aspx" target="_blank">Banco Mercantil</a>, atuo como <code>Estagiário em Análise de Dados</code>. <br></br>
 </p>
