@@ -53,7 +53,7 @@
 - <img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/images%20(1).jpg?raw=true"/> Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> no curso de Sistemas de Informação <br></br>
 - <img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/who_logo.jpg?raw=true"/> Na <a href="https://whoid.com" target="_blank">who.</a>, fui <code>aprendiz</code> no setor de  aplicações e monitoramento. <br></br>
 - <img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/unimedmg_logo.jpg"/> Na <a href="https://www.unimed.coop.br/site/web/minasgerais" target="_blank">Unimed Federação Minas</a>,fui <code>Estagiário de Business Intelligence</code>.<br></br>
-- <img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/images.png?raw=true"/> No <a href="https://bancomercantil.com.br/Paginas/Home.aspx" target="_blank">Banco Mercantil</a>, atuo como <code>Estagiário em Análise de Dados</code>. <br></br>
+- <img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/images.png?raw=true"/> No <a href="https://bancomercantil.com.br/Paginas/Home.aspx" target="_blank">Banco Mercantil</a>, atuo como <code>Estagiário de Dados</code>. <br></br>
 </p>
 </div>
 </div>
