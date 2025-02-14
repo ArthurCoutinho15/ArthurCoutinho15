@@ -124,9 +124,12 @@
 &nbsp;
 <code><a href="https://airflow.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/AirFlow.png?raw=True"/></a></code>
 &nbsp;
+<code><a href="https://airflow.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/beam-logo-full-color-nameless-1000.png?raw=True"/></a></code>
+&nbsp;
 <code><a href="https://www.docker.com" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/docker.png?raw=True"/></a></code>
 &nbsp;
-
+<code><a href="https://www.docker.com" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/kafka-authorization.png?raw=True"/></a></code>
+&nbsp;
 
 </div>
 
