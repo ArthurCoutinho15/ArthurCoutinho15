@@ -36,7 +36,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Arthur Coutinho</code>, tenho 20 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>Estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Possuo interesse pelas áreas de Dados e Desenvolvimento.<br />
+<i><b>Olá</b> :wave:, sou o <code>Arthur Coutinho</code>, tenho 21 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>Estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Possuo interesse pelas áreas de Dados e Desenvolvimento.<br />
 </div>
 
 -----
@@ -122,7 +122,7 @@
 &nbsp;
 <code><a href="https://www.getdbt.com" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/dbt-logo-500AB0BAA7-seeklogo.com.png?raw=True"/></a></code>
 &nbsp;
-<code><a href="https://airflow.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/AirFlow.png?raw=True"/></a></code>
+<code><a href="https://airflow.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/AirflowLogo.png?raw=True"/></a></code>
 &nbsp;
 <code><a href="https://beam.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/beam-logo-full-color-nameless-1000.png?raw=True"/></a></code>
 &nbsp;
