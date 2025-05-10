@@ -128,9 +128,11 @@
 &nbsp;
 <code><a href="https://www.docker.com" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/docker.png?raw=True"/></a></code>
 &nbsp;
-<code><a href="https://kafka.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/icon-kafka-white-trans-tall.png?raw=True"/></a></code>
+<code><a href="https://kafka.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/icon-kafka-white-trans-tall.png?raw=True"/></a>
+</code>
 &nbsp;
-
+<code><a href="https://kafka.apache.org" target="_blank"><img width="32" height="32" src=https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/aws.png?raw=True"/></a></code>
+&nbsp;
 </div>
 
 -----
