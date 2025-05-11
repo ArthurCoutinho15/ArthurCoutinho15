@@ -132,6 +132,8 @@
 &nbsp;
 <code><a href="https://kafka.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/Amazon-S3-Logo.svg.png?raw=True"/></a></code>
 &nbsp;
+<code><a href="https://kafka.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/64f201438dd608df0e008472_aws_glue_logo.webp?raw=True"/></a></code>
+&nbsp;
 <code><a href="https://kafka.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/aws_icon_146074.webp?raw=True"/></a></code>
 &nbsp;
 </div>
