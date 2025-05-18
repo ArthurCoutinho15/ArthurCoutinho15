@@ -126,15 +126,17 @@
 &nbsp;
 <code><a href="https://beam.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/beam-logo-full-color-nameless-1000.png?raw=True"/></a></code>
 &nbsp;
-<code><a href="https://www.docker.com" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/docker.png?raw=True"/></a></code>
-&nbsp;
 <code><a href="https://kafka.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/icon-kafka-white-trans-tall.png?raw=True"/></a></code>
 &nbsp;
-<code><a href="https://kafka.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/Amazon-S3-Logo.svg.png?raw=True"/></a></code>
+<code><a href="https://www.docker.com" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/docker.png?raw=True"/></a></code>
 &nbsp;
-<code><a href="https://kafka.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/64f201438dd608df0e008472_aws_glue_logo.webp?raw=True"/></a></code>
+<code><a href="https://www.databricks.com/br" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/Databricks-Emblem.png?raw=True"/></a></code>
 &nbsp;
-<code><a href="https://kafka.apache.org" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/aws_icon_146074.webp?raw=True"/></a></code>
+<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/Amazon-S3-Logo.svg.png?raw=True"/></a></code>
+&nbsp;
+<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/64f201438dd608df0e008472_aws_glue_logo.webp?raw=True"/></a></code>
+&nbsp;
+<code><a href="hhttps://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/aws_icon_146074.webp?raw=True"/></a></code>
 &nbsp;
 </div>
 
