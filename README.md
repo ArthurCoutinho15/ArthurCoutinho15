@@ -138,6 +138,7 @@
 &nbsp;
 <code><a href="hhttps://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/aws_icon_146074.webp?raw=True"/></a></code>
 &nbsp;
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e972f186-fb82-4e7c-8ebc-74216f6055e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 -----
