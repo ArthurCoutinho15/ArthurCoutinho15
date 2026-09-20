@@ -36,7 +36,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Arthur Coutinho</code>, tenho 21 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>Estudante</code> no curso de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Possuo interesse pelas áreas de Dados e Desenvolvimento.<br />
+<i><b>Olá</b> :wave:, sou o <code>Arthur Coutinho</code>, tenho 22 anos, moro em BH e sou programador desde os 18 anos de idade. Sou <code>Formado</code> em Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Atualmente atuo como Engenheiro de Dados.<br />
 </div>
 
 -----
@@ -57,6 +57,10 @@
 </p>
 </div>
 </div>
+-----
+Certificados
+<code><a href="https://credentials.databricks.com/646044a7-abae-4e95-a8b0-ade185f19983#acc.f6Y4drK" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/data%20engineer%20associate.png?raw=true"/></a></code>
+<a href="https://credentials.databricks.com/646044a7-abae-4e95-a8b0-ade185f19983#acc.f6Y4drKP" target="_blank">
 
 -----
 
