@@ -58,9 +58,15 @@
 </div>
 </div>
 -----
-Certificados
-<code><a href="https://credentials.databricks.com/646044a7-abae-4e95-a8b0-ade185f19983#acc.f6Y4drK" target="_blank"><img width="32" height="32" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/data%20engineer%20associate.png?raw=true"/></a></code>
-<a href="https://credentials.databricks.com/646044a7-abae-4e95-a8b0-ade185f19983#acc.f6Y4drKP" target="_blank">
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>&nbsp;Certificados:
+
+<div>
+<a href="https://credentials.databricks.com/646044a7-abae-4e95-a8b0-ade185f19983#acc.f6Y4drK" target="_blank">
+<img alt="Databricks Certified Data Engineer Associate" height="120" src="https://github.com/ArthurCoutinho15/ArthurCoutinho15/blob/main/img/data%20engineer%20associate.png?raw=true"/>
+</a>
+<br />
+<sub><b>Databricks Certified Data Engineer Associate</b></sub>
+</div>
 
 -----
 
